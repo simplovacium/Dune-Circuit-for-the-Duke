@@ -1,0 +1,8 @@
+{
+  "name": "Dune Circuit for the Duke",
+  "description": "Single and multiplayer 3D racing game set in the Dune universe with customizable vehicles, diverse planetary circuits, and real-time online leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
